@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 12:51:22 CST 2022
+http\://jira.timecho.com\:8081/repository/maven-releases/.error=
+http\://jira.timecho.com\:8081/repository/maven-releases/.lastUpdated=1664167882178
+@default-Timecho-repo-snapshot-http\://jira.timecho.com\:8081/repository/maven-snapshots/.lastUpdated=1664167882183
+http\://jira.timecho.com\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.apache.iotdb\:iotdb-session\:pom\:0.14.0-SNAPSHOT from/to Timecho-repo-snapshot (http\://jira.timecho.com\:8081/repository/maven-snapshots/)\: authentication failed for http\://jira.timecho.com\:8081/repository/maven-snapshots/org/apache/iotdb/iotdb-session/0.14.0-SNAPSHOT/iotdb-session-0.14.0-SNAPSHOT.pom, status\: 401 Unauthorized

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 12:51:06 CST 2022
+http\://jira.timecho.com\:8081/repository/maven-releases/.error=
+http\://jira.timecho.com\:8081/repository/maven-releases/.lastUpdated=1664167866252
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1664167866373

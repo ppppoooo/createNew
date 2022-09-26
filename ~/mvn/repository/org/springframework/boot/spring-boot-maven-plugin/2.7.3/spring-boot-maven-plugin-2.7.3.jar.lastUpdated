@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 12:50:56 CST 2022
+http\://jira.timecho.com\:8081/repository/maven-releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:jar\:2.7.3 from/to Timecho-repo-release (http\://jira.timecho.com\:8081/repository/maven-releases/)\: authentication failed for http\://jira.timecho.com\:8081/repository/maven-releases/org/springframework/boot/spring-boot-maven-plugin/2.7.3/spring-boot-maven-plugin-2.7.3.jar, status\: 401 Unauthorized
+@default-Timecho-repo-release-http\://jira.timecho.com\:8081/repository/maven-releases/.lastUpdated=1664167856568
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1664167856779
